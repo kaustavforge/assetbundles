@@ -1,0 +1,5 @@
+variables:
+  catalog_name:
+    default: assetbundles
+  schema:
+    default: default
